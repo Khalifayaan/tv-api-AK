@@ -98,7 +98,12 @@
   margin: 4px 0px;
 }
 
-.rating{
+.rating {
   display: flex;
   align-items: center;
+}
+
+.rating img {
+  height: 15px;
+  margin-right: 5px;
 }
